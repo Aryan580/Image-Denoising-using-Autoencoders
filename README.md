@@ -3,4 +3,5 @@ Using Autoencoders to Denoise Image
 
 Datasets used are available at:-
        1. https://www.kaggle.com/soumikrakshit/anime-faces
-       2. 
+       
+       2. http://vis-www.cs.umass.edu/lfw/
